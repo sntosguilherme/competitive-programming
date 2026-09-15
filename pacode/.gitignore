@@ -1,0 +1,39 @@
+# Executáveis e Binários Compilados
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dylib
+
+# Pastas de Saída de Compilação
+bin/
+build/
+dist/
+out/
+.vscode/build/
+
+# Configurações do VS Code (opcional: mantém o código limpo, sem suas preferências locais)
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Outras IDEs e Editores
+.idea/
+.vs/
+*.swp
+*~
+.DS_Store
+
+# Saídas locais
+in*.txt
+out*.txt
+input.txt
+output.txt
+temp*
+*.log
+
+# Pastas locais
+local/
+misc/
