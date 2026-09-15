@@ -18,6 +18,7 @@ out/
 .vscode/*
 !.vscode/tasks.json
 !.vscode/launch.json
+.vscode/
 
 # Outras IDEs e Editores
 .idea/
